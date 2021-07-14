@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873855990041",
+    "firebase_url": "https://busyatra-c0f87-default-rtdb.firebaseio.com",
+    "project_id": "busyatra-c0f87",
+    "storage_bucket": "busyatra-c0f87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873855990041:android:cf4fd8cbcb72e1ae04ad88",
+        "android_client_info": {
+          "package_name": "com.example.busyatra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873855990041-pga0bb89govsa71hhn5100b7c15d79j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26Pli93O8u8sxjmLHiLQEvjAQ6__mQZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873855990041-pga0bb89govsa71hhn5100b7c15d79j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
